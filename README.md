@@ -80,6 +80,9 @@ Cada célula contém sua própria instância dos componentes acima, modelada com
 
 - [CPN Tools](https://cpntools.org/)
 
+## Vídeo do Projeto
+
+Tenha mais detalhes sobre o projeto com o [vídeo de explicação](https://drive.google.com/file/d/1Fq92dcAyffwg1yq9Lrnh6UqAtt3kXBVu/view?usp=sharing)
 
 ## 👨‍🔬 Autor
 
