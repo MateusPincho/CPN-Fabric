@@ -1,4 +1,7 @@
 # 📦 Modelagem de Sistema de Manufatura com Redes de Petri Coloridas
+<p align = "center">
+<img src="execucao_cpn.gif" height="400"  />
+</p>
 
 Este projeto modela uma **fábrica com 4 células de manufatura** utilizando **Redes de Petri Coloridas (CPNs)** no ambiente **CPN Tools**. O objetivo é representar o fluxo de produtos, o comportamento dos robôs de transporte e o processamento dos produtos pelas máquinas, respeitando restrições como capacidade limitada de buffers e rotas específicas de produção.
 
